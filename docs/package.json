@@ -11,8 +11,8 @@
   "dependencies": {
     "@ai-sdk/vue": "^1.2.12",
     "@iconify-json/logos": "^1.2.10",
-    "@iconify-json/lucide": "^1.2.74",
-    "@iconify-json/simple-icons": "^1.2.59",
+    "@iconify-json/lucide": "^1.2.75",
+    "@iconify-json/simple-icons": "^1.2.60",
     "@iconify-json/vscode-icons": "^1.2.36",
     "@nuxt/content": "^3.8.2",
     "@nuxt/image": "^2.0.0",
